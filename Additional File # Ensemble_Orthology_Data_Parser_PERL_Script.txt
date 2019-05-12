@@ -1,5 +1,6 @@
 #!/usr/bin/perl -w
 #Generate a hash of orthology groups with associated gene names
+#Usage Ensemble_Orthology_Data_Parser_PERL_Script.pl orthologygroupfile.txt
 use strict;
 use warnings;
 
